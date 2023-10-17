@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "outDir": "./dist"
+    // Esta línea configura el directorio de salida
+    // Otras opciones de configuración...
+  }
+}
